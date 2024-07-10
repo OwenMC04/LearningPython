@@ -1,5 +1,5 @@
 num = 2
-# print(num + ' is the number') # Won't work as it thinks you are trying to add a int to a string
+# print(num + ' is the number') # Won't work as it thinks you are trying to add an int to a string
 print(str(num) + ' is the number') # Changed the int to a string and will work fine
 first_num = input('Enter a number: ')
 second_num = input('Enter a second number: ')
